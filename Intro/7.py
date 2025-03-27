@@ -13,4 +13,4 @@ else:
     horasl= horas-40
     salariomas= horasl * tarifa2
     salario2= salario2 + salariomas
-    print (f"Su salario es de",salario2)
+    print ("Su salario es de",salario2)
